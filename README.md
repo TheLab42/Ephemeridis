@@ -15,7 +15,6 @@ Elle propose :
 Pour toute question, suggestion ou problème :
 - ouvrez une issue sur GitHub
 - ou contactez : lab42@tutamail.com  
-(remplace par ton email dev si différent)
 
 ## Confidentialité
 
